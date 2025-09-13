@@ -1,0 +1,13 @@
+# Comandos: 
+audio - Comando para reiniciar o audio, utilizado para arrumar o audio.
+cade - Comando para abrir a pasta onde esta a Diva.
+clean - Comando para limpar a tela.
+commit - Comando para fazer upload pro github.
+console - Comando para escrever algo no console do windows.
+falar - Comando para a Diva falar com o usuario.
+printer - Comando para reiniciar a impressora, arrumando o excel ou arrumando o serviço da impressora.
+reiniciar - Comando para reiniciar a Diva
+rotina - Comando para executar a rotina onde ele limpa a memoria.
+start - Comando para iniciar um programa.
+
+# Funcionalidades: 
